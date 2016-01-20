@@ -10,3 +10,6 @@ test for tomorrow
 
 
 20160120
+
+
+use linux git eidt in SF648
